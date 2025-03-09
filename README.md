@@ -19,3 +19,9 @@
 #LoginWindow：登录界面，支持身份切换（学生/教师）。
 #StudentWindow：展示学生成绩表格及排名。
 #TeacherWindow：分页管理功能（学生管理、成绩录入、文件生成）。
+----------------------------
+如何运行？
+使用conda创建虚拟环境后安装以下依赖
+pip install pycryptodome pyqt5 pyinstaller
+
+此项目已弃用
